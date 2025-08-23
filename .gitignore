@@ -139,4 +139,4 @@ dmypy.json
 
 build/*
 build_/*
-data/img/*
+data/img/*venv/
